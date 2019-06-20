@@ -1,0 +1,16 @@
+{
+  "name": "graphqlpg",
+  "version": "1.0.0",
+  "description": "GraphQL PlayGround",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "server": "node src/index.js"
+  },
+  "author": "Taylor",
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "^1.18.0",
+    "node-fetch": "^2.6.0"
+  }
+}
